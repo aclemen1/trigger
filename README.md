@@ -1,3 +1,5 @@
+> **Ce dépôt est archivé.** Depuis le 12.10.2026, le code vit dans le monorepo privé `aclemen1/jarvis`, sous `trigger/`. Ce dépôt ne reçoit plus de changements.
+
 # trigger
 
 Keys that say when something wakes up, shared by the tools that keep tasks and
